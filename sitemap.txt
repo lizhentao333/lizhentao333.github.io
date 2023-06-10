@@ -1,2 +1,2 @@
-http://example.com/2022/12/25/hello-world/
-http://example.com/
+http://www.blog.zhentaoli.top/2022/12/25/hello-world/
+http://www.blog.zhentaoli.top/
